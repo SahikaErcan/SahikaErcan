@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello, I am [Şahika Ercan] 👋
 
-<!--
-**SahikaErcan/SahikaErcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+📌 I am a software engineering graduate student. During my master's degree, I take care to take courses on machine learning, artificial intelligence and deep learning.
+📋 I'm currently working on machine learning, deep learning, artificial intelligence.
+🔸 I'm currently learning Django and React.
 
-Here are some ideas to get you started:
+## Education
+- **Master's Degree (Ongoing):** [Fırat University], [Software Engineering], [March 2023] - Present
+- **Bachelor's Degree:** [Fırat University], [Software Engineering], [2018-2022]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills
+- **Programming Languages:** Python, C#, C
+- **Web Technologies:** HTML, CSS, JavaScript
+- **Databases:** MySQL, MsSQL
+
+## Communication
+- LinkedIn: [www.linkedin.com/in/şahika-ercan]
+- Medium: [https://medium.com/@sahikaercan]
+- Email: [sahikaercann@gmail.com]
