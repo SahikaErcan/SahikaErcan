@@ -1,8 +1,10 @@
 ### Hello, I am Şahika Ercan 👋
 
 ## About me
-📌 I am a software engineering graduate student. During my master's degree, I take care to take courses on machine learning, artificial intelligence and deep learning.
+📌 I am a software engineering graduate student.
+
 📋 I'm currently working on machine learning, deep learning, artificial intelligence.
+
 🔸 I'm currently learning Django and React.
 
 ## Education
